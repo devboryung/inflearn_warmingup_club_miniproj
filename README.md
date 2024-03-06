@@ -7,7 +7,7 @@
 
 # 기술 스택
 - JAVA 17
-- Spring Boot 3.x
+- Spring Boot 3.2.3
 - JPA
 - MySQL
 
